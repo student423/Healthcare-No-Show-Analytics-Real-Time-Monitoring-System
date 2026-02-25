@@ -91,7 +91,7 @@ Connected Snowflake using DirectQuery for live reporting.
 
 🔹 Page 1 – Performance Overview
 
-https://github.com/student423/Healthcare-No-Show-Analytics-Real-Time-Monitoring-System/blob/main/automated_healthcare_dashboard-1.png
+![](https://github.com/student423/Healthcare-No-Show-Analytics-Real-Time-Monitoring-System/blob/main/automated_healthcare_dashboard-1.png)
 
 Total Appointments
 
@@ -105,7 +105,7 @@ Trend Analysis
 
 🔹 Page 2 – Risk & Behavioral Insights
 
-https://github.com/student423/Healthcare-No-Show-Analytics-Real-Time-Monitoring-System/blob/main/automated_healthcare_dashboard-2.png
+![](https://github.com/student423/Healthcare-No-Show-Analytics-Real-Time-Monitoring-System/blob/main/automated_healthcare_dashboard-2.png)
 
 Age Segment Risk Analysis
 
